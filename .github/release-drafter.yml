@@ -4,9 +4,6 @@ categories:
   - title: '⭐ 新特性'
     labels:
       - '🧑‍🎄 feature'
-      - 'feature'
-      - 'enhancement'
-      - 'kind/feature'
   - title: '💄 优化'
     labels:
       - '🧑‍🚀 enhance'
@@ -14,11 +11,6 @@ categories:
   - title: '🐛 修复'
     labels:
       - '🕵️‍♂️ bug'
-      - 'fix'
-      - 'bugfix'
-      - 'bug'
-      - 'regression'
-      - 'kind/bug'
 autolabeler:
   - label: '🧑‍🎄 feature'
     branch:
