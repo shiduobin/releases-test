@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "shiduobin",
+      "name": "木头先生",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26728144?v=4",
+      "profile": "https://github.com/shiduobin",
+      "contributions": [
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "releases-test",
+  "projectOwner": "shiduobin"
+}
