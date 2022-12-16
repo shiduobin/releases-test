@@ -48,4 +48,4 @@ template: |
 
   ***
 
-  完整内容，请参见 [comparison between $PREVIOUS_TAG and v$NEXT_MINOR_VERSION](https://github.com/3lang3/react-vant/compare/$PREVIOUS_TAG...v$NEXT_MINOR_VERSION)
+  完整内容，请参见 [comparison between $PREVIOUS_TAG and v$NEXT_MINOR_VERSION](https://github.com/shiduobin/releases-test/compare/$PREVIOUS_TAG...v$NEXT_MINOR_VERSION)
